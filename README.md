@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **shreyash-jais-02/shreyash-jais-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shreyash.jaiswal2020@outlook.com
 - 😄 Pronouns: joke
 - ⚡ Fun fact: I love watching anime
--->
