@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on challenges by Geeks for geeks local
+- 🔭 I’m currently working on challenges given by Geeks for geeks local
 - 🌱 I’m currently learning How to code
 - 👯 I’m looking to collaborate on learning 
 - 🤔 I’m looking for help with API
