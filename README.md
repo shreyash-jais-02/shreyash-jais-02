@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on challenges given by Geeks for geeks local
-- 🌱 I’m currently learning How to code
-- 👯 I’m looking to collaborate on learning 
-- 🤔 I’m looking for help with API
+- 🔭 I’m currently working on improving my skills in Python
+- 🌱 I’m currently learning Front End Development
+- 👯 I’m looking to complete full stack development certification on freecodecamp
+- 🤔 I’m looking for web development project ideas 
 - 💬 Ask me about my day
-- 📫 How to reach me: shreyash.jaiswal2020@outlook.com
-- 😄 Pronouns: joke
-- ⚡ Fun fact: I love watching anime
+- 📫 How to reach me: jaiswalshreyash2002@gmail.com
+- ⚡ Fun fact: I love spending my time reading novels and solving sudoku. Currenty getting interested in Chess.
